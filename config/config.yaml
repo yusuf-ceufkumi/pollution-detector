@@ -1,0 +1,8 @@
+data_path: data/*.csv
+data_columns:
+- pm10
+- so2
+- co
+- o3
+- no2
+label: categori
